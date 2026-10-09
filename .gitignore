@@ -1,0 +1,19 @@
+# Vivado generated folders / build output
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+*.wdb
+*.vcd
+*.bit
+*.bin
+*.ltx
+.DS_Store
